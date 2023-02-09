@@ -9,4 +9,4 @@ I'm a software developer with passion for cybersecurity. Basically, I like to pr
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind%20CSS-40bcfc?style=flat-square&logo=tailwindcss&logoColor=white" /> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="Expo" src="https://img.shields.io/badge/-Expo-040413?style=flat-square&logo=expo&logoColor=white" />
 
 ### Where to find me
-<a href="https://github.com/just-luk" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://github.com/just-luk" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/lukeg123" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
