@@ -7,4 +7,5 @@ I'm a developer with passion for AI security and AI logic. Basically, I like to 
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 
 ### Where to find me
-<a href="https://github.com/just-luk" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/lukeg123" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://scholar.google.com/citations?user=QCdDeBgAAAAJ&hl=en" target="_blank"><img alt="Hack The Box" src="https://img.shields.io/badge/-Google%20Scholar-A0C3FF?style=for-the-badge&logo=googlescholar" /></a> 
+<a href="https://scholar.google.com/citations?user=QCdDeBgAAAAJ&hl=en" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/-Google%20Scholar-A0C3FF?style=for-the-badge&logo=googlescholar" /></a> 
+<a href="https://www.linkedin.com/in/lukeg123" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
